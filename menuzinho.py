@@ -3,7 +3,9 @@ import pandas as pd
 
 medicos_autorizados = {
     'Thabata Andes': 'esqueciasenha',
-    'Luiz Carlos': 'souomelhor'
+    'Luiz Carlos': 'souomelhor',
+    'Amanda Souza': 'senha123',
+    'Duna Dois Silva': 'assistaessefilme'
 }
 
 def verifica_login():
