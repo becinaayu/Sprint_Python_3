@@ -1,5 +1,5 @@
-# Sprint_Python_3
-## Computational Thinking with Python
+
+## Computational Thinking with Python - Sprint 3
 
 ## Autores
 |Nome                              |RM             |
