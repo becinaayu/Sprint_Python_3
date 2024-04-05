@@ -1,6 +1,13 @@
 # Sprint_Python_3
 ## Computational Thinking with Python
 
+## Autores
+|Nome                              |RM             |
+|----------------------------------|---------------|
+|Beatriz Dantas Sampaio            |554044         |
+|Giovanna Franco Gaudino Rodrigues |553701         |
+|Isabela Barcellos Freire          |553746         |
+
 ### Sistema de Menu em Python
 
 O sistema oferece funcionalidades básicas de menu, permitindo a adição, leitura, exclusão ou atualização de informações de pacientes, estejam eles cadastrados ou não nas bibliotecas previamente geradas. Seu objetivo principal é simplificar o acesso dos médicos às fichas dos pacientes, possibilitando a verificação de suas informações de forma eficiente. É importante ressaltar que apenas médicos cadastrados no programa têm permissão para acessar todas essas funcionalidades.
